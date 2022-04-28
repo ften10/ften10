@@ -1,3 +1,3 @@
 Hi, my name is Felipe Ten 👋
-C# developer
-Mostly backend development
+- C# developer
+- Mostly backend development
